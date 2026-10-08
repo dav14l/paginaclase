@@ -12,8 +12,11 @@ nav{
     background-color: greenyellow;
     color: black;
 }
-
 main{
+    background-color: rgb(44, 99, 44);
+    color: white;
+}
+section{
     border-color: black;
     color: black;
     background-color: aquamarine;
