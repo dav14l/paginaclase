@@ -3,6 +3,14 @@ html {
     color: white;
 }
 
+h1, h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
 header {
     background-color: rgb(44, 99, 44);
     color: white;
