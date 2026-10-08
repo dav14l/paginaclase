@@ -1,23 +1,35 @@
-html{
-background-color: rgb(44, 99, 44);
-color: white;
-}
-
-header{
-background-color: rgb(44, 99, 44);
-color: white;
-}
-
-nav{
-    background-color: greenyellow;
-    color: black;
-}
-main{
+html {
     background-color: rgb(44, 99, 44);
     color: white;
 }
-section{
+
+header {
+    background-color: rgb(44, 99, 44);
+    color: white;
+}
+
+nav {
+    background-color: greenyellow;
+    color: black;
+}
+
+main {
+    background-color: rgb(44, 99, 44);
+    color: white;
+}
+
+section {
     border-color: black;
     color: black;
     background-color: aquamarine;
+}
+
+article {
+    text-align: justify;
+}
+
+footer {
+    background-color: rgb(44, 99, 44);
+    color: white;
+    text-align: center;
 }
