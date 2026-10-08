@@ -3,13 +3,17 @@ background-color: rgb(44, 99, 44);
 color: white;
 }
 
+header{
+background-color: rgb(44, 99, 44);
+color: white;
+}
+
 nav{
     background-color: greenyellow;
     color: black;
 }
 
 main{
-    border-radius: 5%;
     border-color: black;
     color: black;
     background-color: aquamarine;
